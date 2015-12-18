@@ -118,11 +118,11 @@ textarea {
 .clear {
   clear: both;
 } 
-#menu li {
+#title li {
   display: inline;
 }
 
-#menu {
+#title {
   background-color: red;
   font-size: 20px;
 }

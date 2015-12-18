@@ -102,6 +102,12 @@ textarea {
   height: 400px;
   background-repeat: no-repeat;
 }
+
+#halfcontent {
+  height: 400px;
+  width: 480px;
+}
+
 #left_content {
   width: 593px;
 }
@@ -131,10 +137,6 @@ textarea {
 }
 #footer {
   background-color: green;
-}
-
-.content {
-  width: 480px;
 }
 
 .callout {

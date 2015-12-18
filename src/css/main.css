@@ -132,6 +132,11 @@ textarea {
 #footer {
   background-color: green;
 }
+
+.content {
+  width: 480px;
+}
+
 .callout {
   width: 310px;
   padding-left: 10px;

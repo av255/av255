@@ -112,6 +112,13 @@ textarea {
   margin-right: 20px;
 }
 
+#benefits {
+  text-align: center;
+  margin-left: 362px;
+  margin-right: 362px;
+  margin-bottom: 100px;
+}
+
 #left_content {
   width: 593px;
 }
@@ -127,7 +134,12 @@ textarea {
 }
 .clear {
   clear: both;
-} 
+}
+
+.purple {
+  color: #75478a;
+}
+
 #title li {
   display: inline;
 }

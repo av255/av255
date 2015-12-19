@@ -104,6 +104,14 @@ textarea {
   background-repeat: no-repeat;
 }
 
+#footer-content {
+  background-image: url(../img/background-2.png);
+  height: 400px;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+}
+
 #halfcontent {
   color: white;
   height: 400px;
@@ -151,7 +159,7 @@ textarea {
 
 #title {
   background-color: white;
-  font-size: 18px;
+  font-size: 23px;
   margin-left: 100px;
   margin-top: 20px;
 }
@@ -172,12 +180,30 @@ textarea {
 }
 
 .icons {
- width: 130px;
- text-align: right;
+  width: 130px;
+  text-align: right;
+}
+
+.legal {
+  text-align: left;
+  margin-left: 50px;
+  line-height: 50%;
+}
+
+.reserved {
+  line-height: 400%;
+}
+
+.about {
+  text-align: left;
+  margin-left: 100px;
+}
+
+.support {
+  text-align: left;
 }
 
 #callout1 {
-  background-color: white;
   line-height: 50%;
 }
 
@@ -200,7 +226,7 @@ ul,li {
 
 #callout4 {
   width: 390px:
-  padding-left:10px;
+  padding-left: 10px;
   line-height: 50%;
 }
 
